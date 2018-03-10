@@ -1,3 +1,9 @@
+# Open Data Hackathon
+
+`dataset` contains the learning set with records categorized by classes.
+
+`test` is the same but with random tests.
+
 # image-classification-tensorflow  
 A generic image classification program that uses Google's Machine Learning library, [Tensorflow](https://www.tensorflow.org/) and a pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
