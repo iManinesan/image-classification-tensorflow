@@ -2,8 +2,6 @@ import tensorflow as tf
 import sys
 import os
 
-from classify import classify
-
 # Disable tensorflow compilation warnings
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 import tensorflow as tf
